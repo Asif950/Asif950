@@ -9,4 +9,4 @@
   <img src="https://graph.org/file/8854d948c5d75ff374959-5b9eab28b0de68b2b8.jpg" alt="ASIF">
 </div>
 
-<p id="About"> Hello friends! I am an Ethical & BlackHat hacker, whose mission is to bring improvement in the field of technology and cybersecurity, but in a somewhat different way. My name is Asif and I strive to secure systems and networks using my skills." </p>
+<p id="About"> Python is magic!—I write one line, and the computer does the work for me." </p>
